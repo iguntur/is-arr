@@ -1,6 +1,6 @@
 {
   "name": "is-arr",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Chech value is array",
   "license": "MIT",
   "repository": "iGuntur/is-arr",
