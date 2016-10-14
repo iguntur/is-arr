@@ -1,0 +1,32 @@
+{
+  "name": "is-arr",
+  "version": "0.0.0",
+  "description": "Chech value is array",
+  "license": "MIT",
+  "repository": "iGuntur/is-arr",
+  "author": {
+    "name": "Guntur",
+    "email": "poetra.guntur@gmail.com",
+    "url": "guntur.starmediateknik.com"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "keywords": [
+    "arr",
+    "array",
+    "async",
+    "check",
+    "helper",
+    "object",
+    "promise"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
