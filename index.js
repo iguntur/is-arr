@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Async - Check value if is array
+ * Async
  *
  * @param  {Any}       value
  * @return {Functions} Promise [Boolean]
@@ -12,7 +12,7 @@ module.exports = value => new Promise(resolve => {
 });
 
 /**
- * Sync - Check value if is array
+ * Sync
  *
  * @param  {Any}     value
  * @return {Boolean}

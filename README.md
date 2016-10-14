@@ -1,8 +1,4 @@
-# is-arr
-
-[![Build Status](https://travis-ci.org/iGuntur/is-arr.svg?branch=master)](https://travis-ci.org/iGuntur/is-arr)
-
-> Chech if value is array
+# is-arr [![Build Status](https://travis-ci.org/iGuntur/is-arr.svg?branch=master)](https://travis-ci.org/iGuntur/is-arr) [![npm](https://img.shields.io/npm/v/is-arr.svg?style=flat-square)](https://npmjs.com/package/is-arr) [![npm](https://img.shields.io/npm/l/is-arr.svg?style=flat-square)](#)
 
 
 ## Install
