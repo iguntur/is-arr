@@ -6,10 +6,11 @@
  * @param  {Any}       value
  * @return {Functions} Promise [Boolean]
  */
-module.exports = value => new Promise(resolve => {
-	value = Array.isArray(value);
-	resolve(value);
-});
+module.exports = function (value) {
+	return new Promise(function (resolve) {
+		resolve(Array.isArray(value));
+	});
+};
 
 /**
  * Sync
@@ -17,6 +18,6 @@ module.exports = value => new Promise(resolve => {
  * @param  {Any}     value
  * @return {Boolean}
  */
-module.exports.sync = value => {
+module.exports.sync = function (value) {
 	return Array.isArray(value);
 };
