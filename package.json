@@ -26,7 +26,7 @@
     "promise"
   ],
   "devDependencies": {
-    "ava": "*",
-    "xo": "*"
+    "ava": "^0.15.2",
+    "xo": "^0.16.0"
   }
 }
