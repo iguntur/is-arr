@@ -1,6 +1,6 @@
 {
   "name": "is-arr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a value is an array",
   "license": "MIT",
   "repository": "iguntur/is-arr",
@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=0.12.0"
+    "node": ">=0.10.0"
   },
   "scripts": {
     "test": "xo && ava"
@@ -27,6 +27,7 @@
   ],
   "devDependencies": {
     "ava": "^0.15.2",
+    "pinkie-promise": "^2.0.0",
     "xo": "^0.16.0"
   }
 }

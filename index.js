@@ -1,5 +1,7 @@
 'use strict';
 
+var Promise = require('pinkie-promise');
+
 /**
  * Async
  *
