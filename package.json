@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Check if a value is an array",
   "license": "MIT",
-  "repository": "iGuntur/is-arr",
+  "repository": "iguntur/is-arr",
   "author": {
     "name": "Guntur",
     "email": "poetra.guntur@gmail.com",
@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.12.0"
   },
   "scripts": {
     "test": "xo && ava"
