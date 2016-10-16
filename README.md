@@ -1,4 +1,4 @@
-# is-arr [![Build Status](https://travis-ci.org/iGuntur/is-arr.svg?branch=master)](https://travis-ci.org/iGuntur/is-arr) [![npm](https://img.shields.io/npm/v/is-arr.svg?style=flat-square)](https://npmjs.com/package/is-arr) [![npm](https://img.shields.io/npm/l/is-arr.svg?style=flat-square)](#)
+# is-arr [![Build Status](https://travis-ci.org/iguntur/is-arr.svg?branch=master)](https://travis-ci.org/iguntur/is-arr) [![npm](https://img.shields.io/npm/v/is-arr.svg?style=flat-square)](https://npmjs.com/package/is-arr) [![npm](https://img.shields.io/npm/l/is-arr.svg?style=flat-square)](#)
 
 > Check if a value is an array
 
