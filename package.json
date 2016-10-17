@@ -1,6 +1,6 @@
 {
   "name": "is-arr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if a value is an array",
   "license": "MIT",
   "repository": "iguntur/is-arr",
