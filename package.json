@@ -27,9 +27,11 @@
     "object",
     "promise"
   ],
+  "dependencies": {
+    "pinkie-promise": "^2.0.0"
+  },
   "devDependencies": {
     "ava": "^0.15.2",
-    "pinkie-promise": "^2.0.0",
     "xo": "^0.16.0"
   }
 }
