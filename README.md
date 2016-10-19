@@ -36,11 +36,11 @@ isArr.sync({"albums": "untitled"});
 
 ### isArr(input)
 
-Returns an promise value of input
+Returns a promise value of an input
 
 ### isArr.sync(input)
 
-Returns boolean of input
+Returns a boolean value of an input
 
 #### input
 
