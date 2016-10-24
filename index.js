@@ -2,6 +2,8 @@
 
 var Promise = require('pinkie-promise');
 
+var toString = Object.prototype.toString;
+
 /**
  * Array.isArray polyfyll
  *     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray#Polyfill
@@ -10,7 +12,6 @@ var Promise = require('pinkie-promise');
  * @return {Boolean}
  */
 function arrayIsArray(obj) {
-	var toString = Object.prototype.toString;
 	return toString.call(obj) === '[object Array]';
 }
 
