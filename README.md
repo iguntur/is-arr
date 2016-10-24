@@ -1,6 +1,7 @@
-# is-arr [![Build Status](https://travis-ci.org/iguntur/is-arr.svg?branch=master)](https://travis-ci.org/iguntur/is-arr) [![npm](https://img.shields.io/npm/v/is-arr.svg?style=flat-square)](https://npmjs.com/package/is-arr) [![npm](https://img.shields.io/npm/l/is-arr.svg?style=flat-square)](#)
+# is-arr [![Build Status](https://travis-ci.org/iguntur/is-arr.svg?branch=master)](https://travis-ci.org/iguntur/is-arr) [![npm](https://img.shields.io/npm/v/is-arr.svg?style=flat-square)](https://npmjs.com/package/is-arr)
 
 > Check if a value is an array [`Polyfill`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray#Polyfill)
+
 
 ## Install
 
