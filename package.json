@@ -1,6 +1,6 @@
 {
   "name": "is-arr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if a value is an array `Polyfill`",
   "license": "MIT",
   "repository": "iguntur/is-arr",
