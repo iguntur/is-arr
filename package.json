@@ -21,10 +21,15 @@
   "keywords": [
     "arr",
     "array",
+    "array-is",
+    "array-is-array",
     "async",
+    "boolean",
     "check",
     "helper",
+    "is-array",
     "object",
+    "polyfill",
     "promise"
   ],
   "dependencies": {
